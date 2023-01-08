@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Angular 2-2--2-2
+          Learn React 2-2-22-2-2-2-2
         </a>
       </header>
     </div>
@@ -24,4 +24,4 @@ function App() {
 
 export default App;
 
-//2-2-2
+//1-1-1-1-1-1-1-1-1-1
