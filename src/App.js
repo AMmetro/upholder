@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 11-1-1
+          Learn Vue 11-1-1-1-1
         </a>
       </header>
     </div>
